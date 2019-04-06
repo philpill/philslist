@@ -1,4 +1,4 @@
-## [Philslist](https://philslist.co.uk)
+## [Philslist](https://philslist.co.uk) - Directory of Stuff
 
 ### Food and Drink
 
