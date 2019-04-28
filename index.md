@@ -16,5 +16,8 @@
 - [Kirktown Garden Centre](https://www.kirktowngardencentre.co.uk/restaurant/), Stonehaven
 - [The Coffee Apothecary](https://www.thecoffeeapothecary.co.uk/), Udny
 - [The Cowshed](https://www.cowshedrestaurantbanchory.co.uk/), Banchory
+- [Easter Anguston Farm](
+https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
+
 
 contact@philslist.co.uk
