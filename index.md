@@ -19,5 +19,7 @@
 - [Easter Anguston Farm](
 https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
 - [Balmakewan](https://www.tripadvisor.co.uk/Restaurant_Review-g1602202-d3399312-Reviews-Balmakewan_Farm_Shop-Laurencekirk_Aberdeenshire_Scotland.html), Laurencekirk
+- [The Dunavon](https://thedunavon.com/), Dyce
+- [Craighaar Hotel](https://craighaarhotel.com/), Dyce
 
 contact@philslist.co.uk
