@@ -22,5 +22,6 @@ https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
 - [The Dunavon](https://thedunavon.com/), Dyce
 - [Craighaar Hotel](https://craighaarhotel.com/), Dyce
 - [Castleton Farm](https://castletonfarmshop.co.uk/), Castleton
+- [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 
 contact@philslist.co.uk
