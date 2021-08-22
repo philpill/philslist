@@ -2,7 +2,7 @@
 
 ### Food and Drink
 
-
+- [Hoodles](https://hoodles.co.uk/eat/), Oldmeldrum
 - [Andersons](https://andersonsofinverurie.co.uk/pages/coffee-shop), Inverurie
 - [Morgan McVeighs](https://morganmcveighs.com/), Colpy
 - [Spider on a bicycle](https://www.spideronabicycle.com/), Aboyne
