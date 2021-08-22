@@ -2,10 +2,12 @@
 
 ### Food and Drink
 
+
+- [Andersons](https://andersonsofinverurie.co.uk/), Inverurie
 - [Morgan McVeighs](https://morganmcveighs.com/), Colpy
 - [Spider on a bicycle](https://www.spideronabicycle.com/), Aboyne
 - [Remoir](https://www.raemoir.com/), Banchory
-- [Buchanan Bistro](https://www.raemoir.com/), Banchory
+- [Buchanan Bistro](https://www.buchananfood.com/), Banchory
 - [The Boat Inn](https://theboatinnaboyne.co.uk/), Aboyne
 - [Finzean Farm](http://finzean.com/TeaRoom.html), Finzean
 - [Mains of Drum](http://www.mainsofdrum.co.uk/the-restaurant/), Peterculter
@@ -17,8 +19,7 @@
 - [Kirktown Garden Centre](https://www.kirktowngardencentre.co.uk/restaurant/), Stonehaven
 - [The Coffee Apothecary](https://www.thecoffeeapothecary.co.uk/), Udny
 - [The Cowshed](https://www.cowshedrestaurantbanchory.co.uk/), Banchory
-- [Easter Anguston Farm](
-https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
+- [Easter Anguston Farm](https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
 - [Balmakewan](https://www.tripadvisor.co.uk/Restaurant_Review-g1602202-d3399312-Reviews-Balmakewan_Farm_Shop-Laurencekirk_Aberdeenshire_Scotland.html), Laurencekirk
 - [The Dunavon](https://thedunavon.com/), Dyce
 - [Craighaar Hotel](https://craighaarhotel.com/), Dyce
