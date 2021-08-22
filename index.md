@@ -3,7 +3,7 @@
 ### Food and Drink
 
 
-- [Andersons](https://andersonsofinverurie.co.uk/), Inverurie
+- [Andersons](https://andersonsofinverurie.co.uk/pages/coffee-shop), Inverurie
 - [Morgan McVeighs](https://morganmcveighs.com/), Colpy
 - [Spider on a bicycle](https://www.spideronabicycle.com/), Aboyne
 - [Remoir](https://www.raemoir.com/), Banchory
