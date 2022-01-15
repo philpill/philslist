@@ -2,6 +2,9 @@
 
 ### Food and Drink
 
+- [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
+- [Marshalls Farm Shop](http://marshallsfarmshop.co.uk/), Kintore
+- [Kellockbank](https://www.visitscotland.com/info/shopping/kellockbank-country-emporium-p253511), Insch
 - [Hoodles](https://hoodles.co.uk/eat/), Oldmeldrum
 - [Andersons](https://andersonsofinverurie.co.uk/pages/coffee-shop), Inverurie
 - [Morgan McVeighs](https://morganmcveighs.com/), Colpy
