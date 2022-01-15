@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Birdhouse cafe](https://www.birdhousecafe.co.uk/), Banchory
 - [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
 - [Marshalls Farm Shop](http://marshallsfarmshop.co.uk/), Kintore
 - [Kellockbank](https://www.visitscotland.com/info/shopping/kellockbank-country-emporium-p253511), Insch
