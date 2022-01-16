@@ -2,7 +2,7 @@
 
 ### Food and Drink
 
-- [Murly tuck Cafe](http://www.themurlytuck.co.uk/), Tarves
+- [Murly Tuck Cafe](http://www.themurlytuck.co.uk/), Tarves
 - [Birdhouse cafe](https://www.birdhousecafe.co.uk/), Banchory
 - [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
 - [Marshalls Farm Shop](http://marshallsfarmshop.co.uk/), Kintore
