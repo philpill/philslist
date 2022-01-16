@@ -3,7 +3,7 @@
 ### Food and Drink
 
 - [Murly Tuck Cafe](http://www.themurlytuck.co.uk/), Tarves
-- [Birdhouse cafe](https://www.birdhousecafe.co.uk/), Banchory
+- [Birdhouse Cafe](https://www.birdhousecafe.co.uk/), Banchory
 - [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
 - [Marshalls Farm Shop](http://marshallsfarmshop.co.uk/), Kintore
 - [Kellockbank](https://www.visitscotland.com/info/shopping/kellockbank-country-emporium-p253511), Insch
