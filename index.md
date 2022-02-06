@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Treehouse Cafe](https://www.forestcafe.co.uk/food/), Midmar
 - [Murly Tuck Cafe](http://www.themurlytuck.co.uk/), Tarves
 - [Birdhouse Cafe](https://www.birdhousecafe.co.uk/), Banchory
 - [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
