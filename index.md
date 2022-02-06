@@ -11,7 +11,7 @@
 - [Andersons](https://andersonsofinverurie.co.uk/pages/coffee-shop), Inverurie
 - [Morgan McVeighs](https://morganmcveighs.com/), Colpy
 - [Spider on a bicycle](https://www.spideronabicycle.com/), Aboyne
-- [Remoir](https://www.raemoir.com/), Banchory
+- [Remoir](https://www.raemoirgardencentre.co.uk/), Banchory
 - [Buchanan Bistro](https://www.buchananfood.com/), Banchory
 - [The Boat Inn](https://theboatinnaboyne.co.uk/), Aboyne
 - [Finzean Farm](http://finzean.com/TeaRoom.html), Finzean
