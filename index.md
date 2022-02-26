@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Trellis Cafe](https://udnyarmshotel.com/coffee/), Newburgh
 - [Treehouse Cafe](https://www.forestcafe.co.uk/food/), Midmar
 - [Murly Tuck Cafe](http://www.themurlytuck.co.uk/), Tarves
 - [Birdhouse Cafe](https://www.birdhousecafe.co.uk/), Banchory
