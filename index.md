@@ -39,6 +39,7 @@
 - [Wynford Farm](https://www.wynfordfarm.com/), Kingswells
 - [Hoodles Playbarn](https://hoodles.co.uk/), Oldmeldrum
 - [Play Town Cafe](https://www.playtowninverurie.com/cafe/), Inverurie
+- [Aberdeen Science Centre](https://aberdeensciencecentre.org/), Aberdeen
 
 
 contact@philslist.co.uk
