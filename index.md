@@ -2,6 +2,9 @@
 
 ### Food and Drink
 
+- [Skateraw Store](https://www.facebook.com/skaterawstore/), Newtonhill
+- [Sterling Furniture Cafe](https://www.sterlingfurniture.co.uk/stores/aberdeen/), Bridge Of Don
+- [Inverurie Garden Centre](https://inveruriegardencentre.com/restaurant/), Inverurie
 - [Trellis Cafe](https://udnyarmshotel.com/coffee/), Newburgh
 - [Treehouse Cafe](https://www.forestcafe.co.uk/food/), Midmar
 - [Murly Tuck Cafe](http://www.themurlytuck.co.uk/), Tarves
