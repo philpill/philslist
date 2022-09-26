@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Brae](https://www.brae-at-chapelton.co.uk/), Chapelton
 - [Skateraw Store](https://www.facebook.com/skaterawstore/), Newtonhill
 - [Sterling Furniture Cafe](https://www.sterlingfurniture.co.uk/stores/aberdeen/), Bridge Of Don
 - [Inverurie Garden Centre](https://inveruriegardencentre.com/restaurant/), Inverurie
