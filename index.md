@@ -2,6 +2,8 @@
 
 ### Food and Drink
 
+- [Duncan's](https://www.duncansofbanchory.co.uk/pages/coffee-shop), Banchory
+- [Sinclairs](https://www.sinclairsjewellers.co.uk/cafe-bistro), Inverurie
 - [Brae](https://www.brae-at-chapelton.co.uk/), Chapelton
 - [Skateraw Store](https://www.facebook.com/skaterawstore/), Newtonhill
 - [Sterling Furniture Cafe](https://www.sterlingfurniture.co.uk/stores/aberdeen/), Bridge Of Don
