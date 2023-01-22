@@ -10,7 +10,7 @@
 - [Sterling Furniture Cafe](https://www.sterlingfurniture.co.uk/stores/aberdeen/), Bridge Of Don
 - [Inverurie Garden Centre](https://inveruriegardencentre.com/restaurant/), Inverurie
 - [Trellis Cafe](https://udnyarmshotel.com/coffee/), Newburgh
-- [Treehouse Cafe](https://www.forestcafe.co.uk/food/), Midmar
+- [Forest Cafe](https://www.forestcafe.co.uk/food/), Midmar
 - [Murly Tuck Cafe](https://www.facebook.com/Themurlytuck/), Tarves
 - [Birdhouse Cafe](https://www.birdhousecafe.co.uk/), Banchory
 - [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
