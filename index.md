@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Dreamy Goat](https://www.dreamygoatcoffee.com/), Inverurie
 - [Cognito](http://www.cafecognito.co.uk/), Aberdeen
 - [Duncan's](https://www.duncansofbanchory.co.uk/pages/coffee-shop), Banchory
 - [Sinclairs](https://www.sinclairsjewellers.co.uk/cafe-bistro), Inverurie
