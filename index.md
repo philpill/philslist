@@ -43,8 +43,9 @@
 - [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 
 ### Kid's Entertainment
+- [Aden Country Park](https://adencountrypark.org.uk/), Mintlaw
 - [Easter Anguston](https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
-- [Doonies Farm](https://www.facebook.com/doonies.farm), Nigg
+- [~Doonies Farm~](https://www.facebook.com/doonies.farm), Nigg
 - [Wynford Farm](https://www.wynfordfarm.com/), Kingswells
 - [Hoodles Playbarn](https://hoodles.co.uk/), Oldmeldrum
 - [Play Town Cafe](https://www.playtowninverurie.com/cafe/), Inverurie
