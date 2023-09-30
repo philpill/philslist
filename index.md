@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Simpsons (Happy Plant)](https://www.simpsonsgardencentre.co.uk/our-centres/aberdeenshire-garden-centre/), Mintlaw
 - [Dreamy Goat](https://www.dreamygoatcoffee.com/), Inverurie
 - [Cognito](http://www.cafecognito.co.uk/), Aberdeen
 - [Duncan's](https://www.duncansofbanchory.co.uk/pages/coffee-shop), Banchory
