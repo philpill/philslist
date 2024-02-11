@@ -2,7 +2,7 @@
 
 ### Food and Drink
 
-- [Hammerton Store](http://www.hammertonstore.co.uk/),
+- [Hammerton Store](http://www.hammertonstore.co.uk/), Aberdeen
 - [Simpsons (Happy Plant)](https://www.simpsonsgardencentre.co.uk/our-centres/aberdeenshire-garden-centre/), Mintlaw
 - [Dreamy Goat](https://www.dreamygoatcoffee.com/), Inverurie
 - [Cognito](http://www.cafecognito.co.uk/), Aberdeen
