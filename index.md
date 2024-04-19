@@ -44,6 +44,7 @@
 - [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 
 ### Kid's Entertainment
+- [Maritime Museum](https://www.aberdeencity.gov.uk/AAGM/plan-your-visit/aberdeen-maritime-museum), Aberdeen
 - [Transition Extreme](https://transition-extreme.com/), Transition Extreme
 - [Skyline Trampoline Park](https://www.skylinetrampoline.co.uk/), Inverurie
 - [Aden Country Park](https://adencountrypark.org.uk/), Mintlaw
