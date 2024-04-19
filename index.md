@@ -44,6 +44,8 @@
 - [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 
 ### Kid's Entertainment
+- [Transition Extreme](https://transition-extreme.com/), Transition Extreme
+- [Skyline Trampoline Park](https://www.skylinetrampoline.co.uk/), Inverurie
 - [Aden Country Park](https://adencountrypark.org.uk/), Mintlaw
 - [Easter Anguston](https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
 - [~~Doonies Farm~~](https://www.facebook.com/doonies.farm), Nigg
