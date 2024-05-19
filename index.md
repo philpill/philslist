@@ -43,6 +43,9 @@
 - [Castleton Farm](https://castletonfarmshop.co.uk/), Castleton
 - [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 
+### Walks and Places to Visit
+- [Leith Hall, Garden & Estate](https://www.nts.org.uk/visit/places/leith-hall). Huntley
+
 ### Kid's Entertainment
 - [Farm Stop](https://farmstop.co.uk/), Portlethen
 - [Maritime Museum](https://www.aberdeencity.gov.uk/AAGM/plan-your-visit/aberdeen-maritime-museum), Aberdeen
