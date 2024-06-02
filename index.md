@@ -45,6 +45,7 @@
 
 ### Walks and Places to Visit
 - [Leith Hall, Garden & Estate](https://www.nts.org.uk/visit/places/leith-hall). Huntley
+- [Castle Frazer](https://www.nts.org.uk/visit/places/castle-fraser), Sauchen, 
 
 ### Kid's Entertainment
 - [Farm Stop](https://farmstop.co.uk/), Portlethen
