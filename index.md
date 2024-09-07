@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Molly's Café Bar](https://www.mollyscafebar.com/), Stonehaven
 - [Hammerton Store](http://www.hammertonstore.co.uk/), Aberdeen
 - [Simpsons (Happy Plant)](https://www.simpsonsgardencentre.co.uk/our-centres/aberdeenshire-garden-centre/), Mintlaw
 - [Dreamy Goat](https://www.dreamygoatcoffee.com/), Inverurie
