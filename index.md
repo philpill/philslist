@@ -2,6 +2,7 @@
 
 ### Food and Drink
 
+- [Borsalino](https://borsalinorestaurant.com/), Peterculter
 - [Molly's Café Bar](https://www.mollyscafebar.com/), Stonehaven
 - [Hammerton Store](http://www.hammertonstore.co.uk/), Aberdeen
 - [Simpsons (Happy Plant)](https://www.simpsonsgardencentre.co.uk/our-centres/aberdeenshire-garden-centre/), Mintlaw
@@ -48,7 +49,7 @@
 - [Leith Hall, Garden & Estate](https://www.nts.org.uk/visit/places/leith-hall). Huntley
 - [Castle Frazer](https://www.nts.org.uk/visit/places/castle-fraser), Sauchen, 
 
-### Kid's Entertainment
+### Kids Entertainment
 - [Farm Stop](https://farmstop.co.uk/), Portlethen
 - [Maritime Museum](https://www.aberdeencity.gov.uk/AAGM/plan-your-visit/aberdeen-maritime-museum), Aberdeen
 - [Transition Extreme](https://transition-extreme.com/), Transition Extreme
