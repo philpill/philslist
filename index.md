@@ -46,8 +46,8 @@
 - [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 
 ### Walks and Places to Visit
-- [Leith Hall, Garden & Estate](https://www.nts.org.uk/visit/places/leith-hall). Huntley
-- [Castle Frazer](https://www.nts.org.uk/visit/places/castle-fraser), Sauchen, 
+- [Leith Hall, Garden & Estate](https://www.nts.org.uk/visit/places/leith-hall), Huntley
+- [Castle Frazer](https://www.nts.org.uk/visit/places/castle-fraser), Sauchen
 
 ### Kids Entertainment
 - [Farm Stop](https://farmstop.co.uk/), Portlethen
