@@ -1,7 +1,6 @@
 ## [Phils List of Stuff](https://philslist.co.uk)
 
 ### Food and Drink
-- [Andersons](https://andersonsofinverurie.co.uk/pages/coffee-shop), Inverurie
 - [Balmakewan](https://www.tripadvisor.co.uk/Restaurant_Review-g1602202-d3399312-Reviews-Balmakewan_Farm_Shop-Laurencekirk_Aberdeenshire_Scotland.html), Laurencekirk
 - [Birdhouse Cafe](https://www.birdhousecafe.co.uk/), Banchory
 - [Borsalino](https://borsalinorestaurant.com/), Peterculter
@@ -14,24 +13,14 @@
 - [Dreamy Goat](https://www.dreamygoatcoffee.com/), Inverurie
 - [Duncan's](https://www.duncansofbanchory.co.uk/pages/coffee-shop), Banchory
 - [Easter Anguston Farm](https://www.vsa.org.uk/easter-anguston-farm/), Peterculter
-- [Finzean Farm](http://finzean.com/TeaRoom.html), Finzean
-- [Forest Cafe](https://www.forestcafe.co.uk/food/), Midmar
 - [Forest Farm Dairy](https://www.forestfarmdairy.co.uk/), Kinellar
 - [Hammerton Store](http://www.hammertonstore.co.uk/), Aberdeen
-- [Harbour Dunes](https://harbour-dunes.co.uk/home), Cruden Bay
 - [Hoodles](https://hoodles.co.uk/eat/), Oldmeldrum
 - [Inverurie Garden Centre](https://inveruriegardencentre.com/restaurant/), Inverurie
-- [Kellockbank](https://www.visitscotland.com/info/shopping/kellockbank-country-emporium-p253511), Insch
-- [Kirktown Garden Centre](https://www.kirktowngardencentre.co.uk/restaurant/), Stonehaven
-- [Mains of Drum](http://www.mainsofdrum.co.uk/the-restaurant/), Peterculter
-- [Marshalls Farm Shop](http://marshallsfarmshop.co.uk/), Kintore
 - [Molly's Café Bar](https://www.mollyscafebar.com/), Stonehaven
 - [Morgan McVeighs](https://morganmcveighs.com/), Colpy
-- [Murly Tuck Cafe](https://www.facebook.com/Themurlytuck/), Tarves
 - [Park Hill Garden Centre](https://www.parkhillgardencentre.com/), Dyce
-- [Remoir](https://www.raemoirgardencentre.co.uk/), Banchory
 - [Ride](https://www.tripadvisor.co.uk/Restaurant_Review-g191281-d15560743-Reviews-Ride_Coffee_House-Banchory_Aberdeenshire_Scotland.html), Banchory
-- [Simpsons (Happy Plant)](https://www.simpsonsgardencentre.co.uk/our-centres/aberdeenshire-garden-centre/), Mintlaw
 - [Sinclairs](https://www.sinclairsjewellers.co.uk/cafe-bistro), Inverurie
 - [Skateraw Store](https://www.facebook.com/skaterawstore/), Newtonhill
 - [Spider on a bicycle](https://www.spideronabicycle.com/), Aboyne
@@ -39,11 +28,9 @@
 - [The Barn](https://www.thebarnfoveran.co.uk/), Foveran
 - [The Bieldside Inn](http://pbdevco.com/thebieldsideinnmenus.html), Bieldside
 - [The Boat Inn](https://theboatinnaboyne.co.uk/), Aboyne
-- [The Coffee Apothecary](https://www.thecoffeeapothecary.co.uk/), Udny
 - [The Cowshed](https://www.cowshedrestaurantbanchory.co.uk/), Banchory
 - [The Dunavon](https://thedunavon.com/), Dyce
 - [Trellis Cafe](https://udnyarmshotel.com/coffee/), Newburgh
-- [~~Formartines~~](http://www.formartines.com/eat), Ellon
 
 ### Walks and Places to Visit
 - [Leith Hall, Garden & Estate](https://www.nts.org.uk/visit/places/leith-hall), Huntley
